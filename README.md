@@ -1,2 +1,2 @@
-# Technology-for-Social-Good-
+# Exploring Digital Technology
 A collection of my notes.

@@ -31,8 +31,8 @@ Kernel
 
 Shell
 
-*It acts like a bridge between the kernel and the user.
-*It takes command from users and convert it to comuter language and tranfer it to kernel, because kernel can only understand computer language
+* It acts like a bridge between the kernel and the user.
+* It takes command from users and convert it to comuter language and tranfer it to kernel, because kernel can only understand computer language
 * Shell provide functions which helps applications to interact with the kernel directly without accessing it.
 
 

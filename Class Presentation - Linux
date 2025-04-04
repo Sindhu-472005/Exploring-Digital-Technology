@@ -17,6 +17,7 @@ Community developed
 Full user control
 Better privacy options
 Have higher learning curve but more powerful once mastered
+
 Windows
 
 Its paid
@@ -40,10 +41,10 @@ The kernel, if implemented properly, is invisible to the user, working in its ow
 
 The kernel has 4 jobs:
 
-Memory management -- tracking how much memory is consumed to stre what and where its stored.
+* Memory management -- tracking how much memory is consumed to stre what and where its stored.
 
-Process management -- determine which should use the CPU, when and how long it should use central processor
+* Process management -- determine which should use the CPU, when and how long it should use central processor
 
-Device drivers -- mediator between the hardware and processes
+* Device drivers -- mediator between the hardware and processes
 
-System security -- it receives requests for services from the processes.
+* System security -- it receives requests for services from the processes.

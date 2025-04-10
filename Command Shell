@@ -11,10 +11,8 @@ What does it mean to make a directory?
 We all know "folders". They're the same thing. All we did abbove is we created a directories inside directories inside more directories. This is called "path"
 "Path" is a set of directions to the computer which tells where computer wants to put something in the three folders or directories and that make up our computer's hard disk.
 
-
 The first simple command we used is  $pwd
 pwd which means "print working directory." It returns the full path of your current directory in the terminal. 
-
 
 Change Directory (cd) - $ cd temp
 Command $ cd temp is used to change the current directory to another directory named temp.
@@ -26,7 +24,6 @@ example :  input = $ pwd
                  = $ pwd
            output = /home/user/temp
 
-
 List Directory (ls) - $ ls
 The $ls command lists out the contents of the directory you are currently in. It shows files, directories.
 
@@ -34,16 +31,7 @@ Command $ls -l is used if we want more detailed output like permissions, size et
 
 Command $ls -a is used to include the hidden files.
 
-
 Remove Directory (rmdir) 
 The $rmdir <directory-name> command is used to remove or delete an empty directory.
 
 The $rmdir <file-name> command is used to remove or delete a file within the directory
-
-
-
-
-
-
-
-

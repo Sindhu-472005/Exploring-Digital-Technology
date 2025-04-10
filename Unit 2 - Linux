@@ -1,4 +1,3 @@
-
 A collection of my notes.
 
 Linux is open source, unix like operating system kernel.
@@ -36,10 +35,8 @@ Shell
 * It takes command from users and convert it to comuter language and tranfer it to kernel, because kernel can only understand computer language
 * Shell provide functions which helps applications to interact with the kernel directly without accessing it.
 
-
 Linux distributions 
 There are multiple linux distributions, currently we are using Ubuntu, which is user friendly, great for beginners.
-
 
 Features of linux
 

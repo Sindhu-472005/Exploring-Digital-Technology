@@ -1,7 +1,15 @@
 A collection of my notes and key learnings from unit 2 : Linux 
 
 
-Linux is open source, unix like operating system kernel.
+Linux is open source, unix like operating system kernel, created in 1991 by Linus Torvalds. Started as a hobby not as innovation.
+It is a open sourcee and free for everyone to use.
+
+
+Why Linux?
+It is an engine, that powers the basic functions of a computer. Since its free and open source users don't have to pay for customize it anyone 
+can view and modify it to meet their specific needs and can distribute it. Linus is a community driven operating systeem so it provides regular 
+updates and assistance and evolves continuously.
+
 
 Stucture of linux - Divided into 5 main layers
 

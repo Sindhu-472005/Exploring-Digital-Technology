@@ -1,4 +1,4 @@
-We learnt about Bash shell
+The key important notes that I learnt about Bash shell
 
 Shell
 Shell is a command line interface which allow users to interact with operating through entering commands in it. 
@@ -65,16 +65,10 @@ mkdir : creates new directory
 
 rm : file removes file
 
-
 Networks
-
 ifconfig : shows network interfaces
-
 ip : shows IP addresses
 
-
 Process Management
-
 ps aux : lists running processes
-
 top : shows system resource usuage

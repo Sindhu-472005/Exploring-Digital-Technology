@@ -1,0 +1,51 @@
+Artificial Neuron Network
+
+We had a guest lecture which was about "Artificial Neuron Network", during which I gained a lot of new insights and learned many unfamiliar concepts.
+
+These are the computational models which are inspired by the way human brain works. They are made up of multiple layers of artificial neurons which take inputs, process and produce outputs. 
+
+
+I also learnt about "Logic Operations" and how they can be represented using neuron networks
+
+For example: 
+            - AND Gate : if both inputs are 1 the output is 1
+            - OR Gate : if at least one input is 1 the output is 1
+            - NOT Gate : Output is the opposite of the input.
+
+The thing where neuron can be designed to perform these basic logical operation using thresholding rules is showed by McCulloch and Pitts
+
+
+McCulloch and Pitts formulations had major limitations :
+* The inputs should be only in binary 
+* Every input was contributing equally to the output so there was no weights
+* There was no much learning, because once the structure is set, it was not allowing to improve. 
+
+
+I also came to know more about Hebb's rule :
+
+* Hebb's Rule : "Neurons that fire together, wire together."
+* Which means at the same time if the two neurons is active, the synapse or the connection between them will become stronger. 
+* This idea inspired the learning rules of artificial network, by making the system to adjust its connection according to the inputs and outputs behaviour. 
+
+
+Rosenblatt’s Perceptron
+* It is a first model taht could learn. 
+* It contained a simple algorithm like : 
+      - Taking multiple inputs
+      - Each inputs assigned by weights
+      - Adding them up 
+      - Through an active function passing the sum to decide the output. 
+
+I felt this was a big development because now the system could learn by adjusting the weights based on errors.
+
+
+I also learnt about how an anrtificial neuron is built? and How they build XOR gate using Perceptron? and how to train a network?
+
+
+
+
+
+
+
+
+

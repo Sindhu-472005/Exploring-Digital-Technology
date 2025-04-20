@@ -1,11 +1,11 @@
+We learnt about Bash shell
 
-* Shell
-
+Shell
 Shell is a command line interface which allow users to interact with operating through entering commands in it. 
 It acts as a intermediate between users and system's kernel, its main work is to process and execute commands. 
 
 
-* History of UNIX shells
+History of UNIX shells
 
 sh -- Bourne shell, which is the original UNIX shell it is very simple amd fast.
 
@@ -18,8 +18,7 @@ bash -- Bourne again shell this is a open source extension of sh with enhanced s
 Bash shell - Bourne again shell is the default command line for most of the linux distributions. it allow us to execute command or scripts interactivily but one at a time.
 
 
-* Basic shell Commands
-
+Basic shell Commands
 
 Bash stores all our previous commands, we can access it by using:
 
@@ -30,7 +29,7 @@ history --- shows the list of our recent commands
 !! - repeats the last command
 
 
-*Directory management
+Directory management
 
 Command mv file1.txt Documents/ :  moves a file named file1.txt to the documents directory
 
@@ -66,13 +65,15 @@ mkdir : creates new directory
 
 rm : file removes file
 
-* Networks
+
+Networks
 
 ifconfig : shows network interfaces
 
 ip : shows IP addresses
 
-* Process Management
+
+Process Management
 
 ps aux : lists running processes
 
